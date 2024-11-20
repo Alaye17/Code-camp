@@ -1,0 +1,9 @@
+/*.......................
+ styling for the heropage
+........................*/
+
+.section-1 {
+    background-image: url(./assets/portrait-young-man-jumping-with-laptop.jpg);
+    min-height: 100vh;
+    background-size: cover;
+}
