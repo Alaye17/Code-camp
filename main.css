@@ -7,3 +7,16 @@
     min-height: 100vh;
     background-size: cover;
 }
+
+body {
+    font-family: "Poppins", serif;
+   font-weight: 200;
+    font-style: italic;
+
+}
+
+.card > img {
+    height: 200px !important;
+    
+}
+
